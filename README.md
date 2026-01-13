@@ -19,7 +19,7 @@ TOKEN=
 WEBHOOK= 
 ```
 
-Any issues join the discord
+Any issues join the [discord](https://discord.com/invite/RmMMYuwc?utm_source=Discord%20Widget&utm_medium=Connect)
 
 
 [Here is the Code in CodeSandbox to test run](https://codesandbox.io/p/github/thekendalia/Bot-Video-Start-Code/main?file=%2Fbot.py&import=true)
