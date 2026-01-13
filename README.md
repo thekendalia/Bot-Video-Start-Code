@@ -4,6 +4,7 @@
 You can view all the code here, fork it to use or download the zip.
 
 ## Installation
+**IMPORTANT:** Rename ***REMOVE.env*** to just ***.env***
 
 After you have it opened in your IDE run the below command
 
