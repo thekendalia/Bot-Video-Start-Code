@@ -20,3 +20,6 @@ WEBHOOK=
 ```
 
 Any issues join the discord
+
+
+[Here is the Code in CodeSandbox to test run](https://codesandbox.io/p/github/thekendalia/Bot-Video-Start-Code/main?file=%2Fbot.py&import=true)
